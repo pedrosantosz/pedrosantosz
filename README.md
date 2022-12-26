@@ -4,6 +4,7 @@
 
 <p>
 
+
 I'm a 19 yo electronics student at **IFSul**<br/>
 
 I am actually learning C.
@@ -16,6 +17,7 @@ I am actually learning C.
 
 <a href="https://github.com/Gurupreet">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantosz&theme=dracula&hide_langs_below=1" />
+<img align="right" height="170em" src="058.png">
 </a>
 
 </p>
