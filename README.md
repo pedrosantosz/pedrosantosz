@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, my name is Pedro.
 
-<!--
-**pedrosantosz/pedrosantosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/static/v1?label=Overview&message=pedrosantosz&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-Here are some ideas to get you started:
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 19 yo electronics student at **IFSul**<br/>
+
+I am actually learning C.
+
+### Stats
+ 
+<a href="https://github.com/Gurupreet">
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosantosz&show_icons=true&theme=dracula&line_height=27" alt="**pedrosantosz** github stats"/>
+</a>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantosz&theme=dracula&hide_langs_below=1" />
+</a>
+
+</p>
+<hr>
