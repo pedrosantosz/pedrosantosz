@@ -1,7 +1,6 @@
-### Hi there, I'm Pedro.
+### <img align="right" height="120" width="120" src="058.png" > Hi there, I'm Pedro.
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=pedrosantosz&color=f8efd4&style=for-the-badge&logo=GitHub">
-<img align="right" height="120" width="120" src="058.png" >
 <p>
 
 I'm a 19 yo electronics student at **IFSul**<br/>
