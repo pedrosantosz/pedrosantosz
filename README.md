@@ -11,11 +11,11 @@ I am actually learning C.
 ### Stats
  
 <a href="https://github.com/Gurupreet">
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosantosz&show_icons=true&theme=dracula&line_height=27" alt="**pedrosantosz** github stats"/>
+ <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrosantosz&show_icons=true&theme=dracula&line_height=27" alt="**pedrosantosz** github stats"/>
 </a>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantosz&theme=dracula&hide_langs_below=1" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantosz&theme=dracula&hide_langs_below=1" />
 </a>
 
 </p>
