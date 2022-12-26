@@ -1,4 +1,4 @@
-### Hi there, my name is Pedro.
+### Hi there, I'm Pedro.
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=pedrosantosz&color=f8efd4&style=for-the-badge&logo=GitHub">
 
